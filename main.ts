@@ -16,8 +16,8 @@
 /**
  *This is DFRobot:motor user motor and steering control function.
  */
-//% weight=10 color=#DF6721 icon="\uf013" block="DF-Driver"
-namespace motor {
+//% weight=10 color=#DF6721 icon="\uf013" block="AutoCar"
+namespace AutoCar {
     const PCA9685_ADDRESS = 0x40
     const MODE1 = 0x00
     const MODE2 = 0x01
